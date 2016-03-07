@@ -2,7 +2,8 @@
 a collection of completed javascript exercises. 
 
 **Eloquent Javascript by Marijn Haverbeke**
-Chapter 2 - Program Structure
+
+*Chapter 2 - Program Structure*
 
 • Looping a Triangle
 
@@ -12,7 +13,8 @@ Chapter 2 - Program Structure
 
 
 
-Chapter 3 - Functions
+
+*Chapter 3 - Functions*
 
 • Minimum
 
