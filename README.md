@@ -21,3 +21,10 @@ a collection of completed javascript exercises.
 • Recursion
 
 • Bean Counting
+
+
+
+
+*Chapter 4 - Data Structure: Objects & Arrays*
+
+• The Sum of a Range
